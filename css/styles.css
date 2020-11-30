@@ -1,26 +1,26 @@
 body {
-    background-color: #222831;
+    background-color: #eaeaea;
 }
 
 hr {
-    background-color: #eeeeee;
+    background-color: #252a34;
     border-style: none;
     height: 2px;
     width: auto;
 }
 
 h1{
-    color: #ffd369;
+    color: #ff2e63;
 }
 
 h3{
-    color: #ffd369;
+    color: #ff2e63;
 }
 
 td{
-    color: #393e46;
+    color: #252a34;
 }
 
 li{
-    color: #393e46;
+    color: #252a34;
 }
